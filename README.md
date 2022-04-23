@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtahle" alt="mtahle" /></a> </p>
 
-- 🔭 I’m currently working on [Bazarcards](Https://bazarcards.com)
-
 - 🌱 I’m currently learning **Django and Go lang**
 
 - 👯 I’m looking to collaborate on **Nginx Proxy Manager**
